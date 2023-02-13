@@ -12,3 +12,6 @@ Further Goals:
 1. Individual logins for friends to be able to log in, build boards and check in as game progresses
 2. Host onlie? Buy domain name?
 3. Fun Graphics?
+
+Reference:
+https://docs.google.com/spreadsheets/d/1Nv-B5UaXjiFiIotLv6EvxxdA_li1w5lapV8BCrEdxSk/edit?usp=sharing
