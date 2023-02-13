@@ -10,7 +10,7 @@ Goals to Execute:
 
 Further Goals:
 1. Individual logins for friends to be able to log in, build boards and check in as game progresses
-2. Host onlie? Buy domain name?
+2. Host online? Buy domain name?
 3. Fun Graphics?
 
 Reference:
